@@ -1,4 +1,4 @@
-# Shallow Networks
+# Shallow Networks (Spoofnets)
 
 ### Reference
 
